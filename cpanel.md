@@ -119,7 +119,7 @@ j. after that you can see your project and routes in your domain link. if not wo
 2. then click on manage button.
 ![alt text](images/step23.png "step 15")
 
-3. configure your project path and click on update button.
+3. configure your project path add /public and click on update button.
 ![alt text](images/step24.png "step 15")
 
 4. now you can see your project in your domain link.    
